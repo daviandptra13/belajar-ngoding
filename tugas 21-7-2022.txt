@@ -1,0 +1,11 @@
+Bikin Variable
+- String
+- Boolean
+- Number
+
+kalo bisa syukur, kalo gak bisa, bahas nanti
+- Array
+
+tentukan type nya apa
+console.log(nama);
+console.log(typeof nama);
